@@ -1,0 +1,3 @@
+D:/Desktop/Escola/ISEC/Licenciatura de Engenharia Informática/Cadeiras/2º Ano/1º Semestre/Programação Orientada a Objetos/Ficheiros Aulas/Aula_Pratica_2/cmake-build-debug/CMakeFiles/Aula_Pratica_2.dir
+D:/Desktop/Escola/ISEC/Licenciatura de Engenharia Informática/Cadeiras/2º Ano/1º Semestre/Programação Orientada a Objetos/Ficheiros Aulas/Aula_Pratica_2/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Desktop/Escola/ISEC/Licenciatura de Engenharia Informática/Cadeiras/2º Ano/1º Semestre/Programação Orientada a Objetos/Ficheiros Aulas/Aula_Pratica_2/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,4 @@
+Cannot generate into G:\Outros computadores\Laptop\POO Projetos\Aula_Pratica_18\cmake-build-debug
+It was created with incompatible generator 'CodeBlocks - MinGW Makefiles'
+
+Please either delete it manually or select another generation directory

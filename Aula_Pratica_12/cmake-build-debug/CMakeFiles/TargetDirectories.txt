@@ -1,0 +1,3 @@
+G:/Outros computadores/Laptop/POO Projetos/Aula_Pratica_12/cmake-build-debug/CMakeFiles/Aula_Pratica_12.dir
+G:/Outros computadores/Laptop/POO Projetos/Aula_Pratica_12/cmake-build-debug/CMakeFiles/edit_cache.dir
+G:/Outros computadores/Laptop/POO Projetos/Aula_Pratica_12/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,135 @@
+{
+	"kind" : "toolchains",
+	"toolchains" : 
+	[
+		{
+			"compiler" : 
+			{
+				"id" : "GNU",
+				"implicit" : 
+				{
+					"includeDirectories" : 
+					[
+						"C:/win-builds/include",
+						"C:/win-builds/lib64/gcc/x86_64-w64-mingw32/4.8.3/include",
+						"C:/win-builds/lib64/gcc/x86_64-w64-mingw32/4.8.3/include-fixed",
+						"C:/win-builds/x86_64-w64-mingw32/include"
+					],
+					"linkDirectories" : 
+					[
+						"C:/win-builds/lib64/gcc/x86_64-w64-mingw32/4.8.3",
+						"C:/win-builds/lib64/gcc",
+						"C:/win-builds/x86_64-w64-mingw32/lib",
+						"C:/win-builds/lib64"
+					],
+					"linkFrameworkDirectories" : [],
+					"linkLibraries" : 
+					[
+						"mingw32",
+						"gcc",
+						"moldname",
+						"mingwex",
+						"pthread",
+						"advapi32",
+						"shell32",
+						"user32",
+						"kernel32",
+						"mingw32",
+						"gcc",
+						"moldname",
+						"mingwex"
+					]
+				},
+				"path" : "C:/win-builds/bin/cc.exe",
+				"version" : "4.8.3"
+			},
+			"language" : "C",
+			"sourceFileExtensions" : 
+			[
+				"c",
+				"m"
+			]
+		},
+		{
+			"compiler" : 
+			{
+				"id" : "GNU",
+				"implicit" : 
+				{
+					"includeDirectories" : 
+					[
+						"C:/win-builds/include",
+						"C:/win-builds/include/c++/4.8.3",
+						"C:/win-builds/include/c++/4.8.3/x86_64-w64-mingw32",
+						"C:/win-builds/include/c++/4.8.3/backward",
+						"C:/win-builds/lib64/gcc/x86_64-w64-mingw32/4.8.3/include",
+						"C:/win-builds/lib64/gcc/x86_64-w64-mingw32/4.8.3/include-fixed",
+						"C:/win-builds/x86_64-w64-mingw32/include"
+					],
+					"linkDirectories" : 
+					[
+						"C:/win-builds/lib64/gcc/x86_64-w64-mingw32/4.8.3",
+						"C:/win-builds/lib64/gcc",
+						"C:/win-builds/x86_64-w64-mingw32/lib",
+						"C:/win-builds/lib64"
+					],
+					"linkFrameworkDirectories" : [],
+					"linkLibraries" : 
+					[
+						"stdc++",
+						"mingw32",
+						"gcc_s",
+						"gcc",
+						"moldname",
+						"mingwex",
+						"pthread",
+						"advapi32",
+						"shell32",
+						"user32",
+						"kernel32",
+						"mingw32",
+						"gcc_s",
+						"gcc",
+						"moldname",
+						"mingwex"
+					]
+				},
+				"path" : "C:/win-builds/bin/c++.exe",
+				"version" : "4.8.3"
+			},
+			"language" : "CXX",
+			"sourceFileExtensions" : 
+			[
+				"C",
+				"M",
+				"c++",
+				"cc",
+				"cpp",
+				"cxx",
+				"mm",
+				"mpp",
+				"CPP",
+				"ixx",
+				"cppm"
+			]
+		},
+		{
+			"compiler" : 
+			{
+				"implicit" : {},
+				"path" : "C:/win-builds/bin/windres.exe"
+			},
+			"language" : "RC",
+			"sourceFileExtensions" : 
+			[
+				"rc",
+				"RC"
+			]
+		}
+	],
+	"version" : 
+	{
+		"major" : 1,
+		"minor" : 0
+	}
+}

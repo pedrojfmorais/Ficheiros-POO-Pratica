@@ -1,0 +1,5 @@
+# ninja log v5
+2	619	6617865779845823	build.ninja	1d75e18a9b75d16e
+32	618	6613824885307986	CMakeFiles/Aula_Pratica_17.dir/animal.cpp.obj	7af807df25802b88
+4	795	6613824887182842	CMakeFiles/Aula_Pratica_17.dir/main.cpp.obj	35e423f7a4e9d20a
+795	1075	6613824889839106	Aula_Pratica_17.exe	b7fcb188ff0f2e0e

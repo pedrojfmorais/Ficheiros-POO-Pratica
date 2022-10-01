@@ -1,0 +1,14 @@
+# ninja log v5
+7	1135	6617927814401099	CMakeFiles/Aula_Pratica_18.dir/main.cpp.obj	ff039f0124eb2385
+8	2825	6617930251857908	CMakeFiles/Aula_Pratica_18.dir/livro.cpp.obj	24899de5c2a7813b
+1367	1651	6617927819428158	Aula_Pratica_18.exe	a0f034e4278d55ec
+1	824	6618921796174882	build.ninja	194e824e8cf28427
+44	1745	6617929917356863	CMakeFiles/Aula_Pratica_18.dir/biblioteca.cpp.obj	c860504814931152
+89	2955	6618952977755493	CMakeFiles/Aula_Pratica_18.dir/biblioteca.cpp.obj	c860504814931152
+108	1950	6618953233924686	CMakeFiles/Aula_Pratica_18.dir/biblioteca.cpp.obj	c860504814931152
+9	2043	6618953235018361	CMakeFiles/Aula_Pratica_18.dir/livro.cpp.obj	24899de5c2a7813b
+92	2912	6618956118252554	CMakeFiles/Aula_Pratica_18.dir/main.cpp.obj	ff039f0124eb2385
+7	3061	6618956120127408	CMakeFiles/Aula_Pratica_18.dir/livro.cpp.obj	24899de5c2a7813b
+88	3106	6618956120596133	CMakeFiles/Aula_Pratica_18.dir/biblioteca.cpp.obj	c860504814931152
+7	1729	6618956630393338	CMakeFiles/Aula_Pratica_18.dir/livro.cpp.obj	24899de5c2a7813b
+1730	2282	6618956638160712	Aula_Pratica_18.exe	a0f034e4278d55ec

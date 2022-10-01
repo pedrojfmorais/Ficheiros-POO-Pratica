@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2021.2.2\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\Aula_Pratica_8.dir/objects.a
+C:\win-builds\bin\ar.exe cr CMakeFiles\Aula_Pratica_8.dir/objects.a @CMakeFiles\Aula_Pratica_8.dir\objects1.rsp
+C:\win-builds\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\Aula_Pratica_8.dir/objects.a -Wl,--no-whole-archive -o Aula_Pratica_8.exe -Wl,--out-implib,libAula_Pratica_8.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Aula_Pratica_8.dir\linklibs.rsp
